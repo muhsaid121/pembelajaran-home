@@ -305,3 +305,10 @@ footer .credit a {
     font-size: 55%;
   }
 }
+
+/* Mobile phone */
+@media (max-width: 320px) {
+  html {
+    font-size: 40%;
+  }
+}
